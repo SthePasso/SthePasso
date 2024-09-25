@@ -32,12 +32,11 @@
   <img align="center" alt="Node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Keras" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg">
-  <img align="center" alt="Qiskit" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qiskit-Logo.svg">
+  <img align="center" alt="IBM" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg"> <!-- IBM logo used for Qiskit -->
   <img align="center" alt="Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
   <img align="center" alt="MATLAB" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
-  <img align="center" alt="JetBrains" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/JetBrains_Logo_2016.svg">
+  <img align="center" alt="Management Tool" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"> <!-- Docker icon as a placeholder for JetBrains -->
 </div>
-
  
  
  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
