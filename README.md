@@ -5,13 +5,14 @@
 -->
 #### About me
 
-- 🔭 I’m currently working on my Ph.D. in Electrical Engineering
-- 🌱 I’m currently reseraching on Quantum Computing and Informatics 
-- 🏁 I’m looking to collaborate on "Heath Care" applications, if you know any oportunity on that, please reach out to me 🫀 
+- 🔭 I’m currently pursuing my Ph.D. in Electrical Engineering
+- 📚 I’m currently working as a Graduate Teacher Assistent
+- 🌱 I’m currently researching on Quantum Computing and Informatics 
+- 🫀 I’m looking to collaborate on "Heath Care" applications, if you know any oportunity on that, please reach out to me ⌚ 
 - 🤔 I’m looking for help with Computer Hardware, Digital Marketing and partnenship
 - 💬 Ask me about Data Analistics, ML, Deep Learning, Quantum Informatics, Heathy Habits, I garantee you I can talk about that for hours 😅
 - 📫 How to reach me: sthefanie.passo@utsa.edu
-- ⚡ Fun fact: I love joining in yoga, workout or any hearth activitie, "close your rights" ⌚
+- ⚡ Fun fact: I love participating in yoga, karaoke, and game nights. I can be very competitive at them though! 🎲
  
  
   
